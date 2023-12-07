@@ -1,5 +1,6 @@
 /*  your css code here. If applicable */
 form{
 	display:flex;
-	flex-direction:column
+	flex-direction:column;
+	width:50%
 }
